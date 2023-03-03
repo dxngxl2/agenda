@@ -1,0 +1,12 @@
+/.env
+/.fleet
+/.gitignore
+/.idea
+/.vscode
+/node_modules
+/vendor
+Homestead.json
+Homestead.yaml
+auth.json
+npm-debug.log
+yarn-error.log
